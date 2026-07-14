@@ -2,11 +2,11 @@
 
 ## Event Poster
 
-![Event Poster](Photopea/EVENT%20POSTER.jpg)
+![Event Poster](EVENT%20POSTER.jpg)
 
 ## Food Poster
 
-![Food Poster](Photopea/FOOD POSTER.jpg)
+![Food Poster](FOOD POSTER.jpg)
 
 ## Movie Poster
 
