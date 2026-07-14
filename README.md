@@ -7,11 +7,11 @@ A modern coffee shop website designed with multiple pages.
 ### Home
 ![Home](Home.png)
 
-### Menu
+### About
 ![About](About.png)
 
 ### Cart
-![Cart](cart.png)
+![Cart](Cart.png)
 
 ### Contact
 ![Contact](Contact.png)
