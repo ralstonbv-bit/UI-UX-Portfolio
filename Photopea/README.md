@@ -6,8 +6,8 @@
 
 ## Food Poster
 
-![Food Poster](FOOD POSTER.jpg)
+![Food Poster](FOOD%20POSTER.jpg)
 
 ## Movie Poster
 
-![Movie Poster](Photopea/MOVIE%20POSTER.jpg)
+![Movie Poster](MOVIE%20POSTER.jpg)
